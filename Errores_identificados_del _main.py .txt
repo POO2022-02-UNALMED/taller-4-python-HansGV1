@@ -1,0 +1,3 @@
+1. Para la importación de librarias se debe definir primero classroom para lograr importar de ella: Asignatura y Grupo
+2. No se definen las clases Grupo ni Asignatura, tampoco sus atributos, tampoco los métodos.
+3. De manera general se define un código que no presenta la definición de las clases con las que se trabajan.
