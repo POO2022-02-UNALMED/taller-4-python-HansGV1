@@ -1,5 +1,5 @@
-from classroom.asignatura import Asignatura
-from classroom.grupo import Grupo
+from classroom1.asignatura1 import Asignatura
+from classroom1.grupo1 import Grupo
 
 if __name__ == "__main__":
     asignatura1 = Asignatura("Matematicas")
