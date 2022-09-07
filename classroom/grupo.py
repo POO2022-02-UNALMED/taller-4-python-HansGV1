@@ -1,7 +1,7 @@
 
 
-from classroom1.asignatura1 import Asignatura
-from classroom1.asignatura1 import Asignatura
+from classroom.asignatura import Asignatura
+from classroom.asignatura import Asignatura
 
 
 class Grupo:
